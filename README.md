@@ -1,8 +1,10 @@
- 
+## How run Kaffka and Zookeeper
+
+```bash
 How to run docker compose file to up kaffka and zookeeper :  
        locate docker-composer.yml 
        Command :  docker-compose up
-
+```
 
 ## Description
 
